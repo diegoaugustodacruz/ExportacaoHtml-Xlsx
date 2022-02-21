@@ -1,0 +1,26 @@
+<style>
+	
+	table {
+		border-collapse: collapse;
+		border-spacing: 0;
+	}
+	
+	tr {		
+	
+	}
+	
+	td{
+		background: #FF0000	;
+		font-family: sans-serif;
+		border-color: #000000;
+		border-width: 1px;
+		border-style: solid;
+		padding-left: 2px;
+		padding-right: 2px;
+		font-size:10px;
+	}		
+	
+	
+
+	
+</style>
