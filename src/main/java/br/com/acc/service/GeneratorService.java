@@ -52,11 +52,8 @@ public class GeneratorService implements GeneratorFiles{
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
-
+		}		
 		
-		
-		System.out.println("Feito com sucesso");		
 	}
 
 	@Override
@@ -69,9 +66,7 @@ public class GeneratorService implements GeneratorFiles{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-
 		
-		System.out.println("Feito com sucesso");		
 	}
 
 	@Override
@@ -84,9 +79,7 @@ public class GeneratorService implements GeneratorFiles{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-
 		
-		System.out.println("Feito com sucesso");		
 	}
 	
 	@Override
